@@ -1,2 +1,6 @@
 Hello! My name is Min Seo Kwak.
-Kumoh Natianal Institute of Technology.
+KIT(Kumoh Natianal Institute of Technology.)
+
+Computer Sciences
+C Programming
+Object-oriented programming
